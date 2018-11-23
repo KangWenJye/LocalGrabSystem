@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocalGrabSystem</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="i_m_a_driver">I\'m a driver</string>
+    <string name="i_m_a_customer">I\'m a Customer</string>
+    <string name="i_m_driver">I\'m Driver</string>
+</resources>
